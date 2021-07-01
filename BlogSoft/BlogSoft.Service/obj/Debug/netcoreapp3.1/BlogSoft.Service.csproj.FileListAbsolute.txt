@@ -1,0 +1,56 @@
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.deps.json
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csprojAssemblyReference.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfoInputs.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfo.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CoreCompileInputs.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CopyComplete
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.deps.json
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CopyComplete
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.deps.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csprojAssemblyReference.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfoInputs.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfo.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CopyComplete
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.deps.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.csproj.CopyComplete
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Service\obj\Debug\netcoreapp3.1\BlogSoft.Service.pdb

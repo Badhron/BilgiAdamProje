@@ -1,0 +1,213 @@
+﻿@model Tuple<PostViewModel, User>
+@{
+    ViewData["Title"] = "Post";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+@{
+
+    string thumbsStyle = Model.Item1.isUserLiked ? "color:#1a73e8" : "color:grey";
+}
+
+<section class="hero" style="min-width:1000px;width:100%;">
+    <div class="container">
+        <div class="row">
+            <div class="col" style="width:50%;float:left;">
+                <div class="cardbox shadow-lg bg-white">
+                    <div class="cardbox-heading">
+                        <div class="media m-0">
+                            <div class="d-flex mr-3">
+                                <a asp-controller="Profile" asp-action="Profile" asp-route-id="@Model.Item2.ID"><img
+                                        class="img-fluid rounded-circle" src="@Model.Item2.ImageUrl" alt="User"></a>
+                            </div>
+                            <div class="media-body">
+                                <a asp-controller="Profile" asp-action="Profile" asp-route-id="@Model.Item2.ID">
+                                    <p class="m-0">@Model.Item2.UserName</p>
+                                </a>
+                                <small><span><i class="icon ion-md-pin"></i> @Html.Raw(Model.Item1.post.Description)
+                                    </span></small>
+                                <small><span><i class="icon ion-md-time"></i> <time class="timeago"
+                                            datetime="@Html.DisplayFor(modelItem => Model.Item1.post.CreatedDate)"></time>
+                                    </span></small>
+                            </div>
+
+                            @if (Model.Item1.isUserOwner || User.IsInRole("Admin"))
+                            {
+                                <div class="float-right">
+                                    <form asp-controller="Post" asp-action="Delete" method="post"
+                                    onSubmit="return confirm('Are you sure you wish to delete?');">
+                                        <a class="btn btn-success" asp-area="" asp-controller="Post"
+                                        asp-action="PostEditPage" asp-route-id="@Model.Item1.post.ID"><i
+                                            class="fa fa-pencil-square-o" aria-hidden="true"></i></a>
+                                        <input type="text" name="postID" value="@Model.Item1.post.ID" class="form-control"
+                                        hidden>
+                                        <button class="btn btn-danger"><i class="fa fa-trash"
+                                            aria-hidden="true"></i></button>
+                                    </form>
+                                </div>
+                            }
+                        </div>
+                        <!--/ media -->
+                    </div>
+                    <!--/ cardbox-heading -->
+
+                    <div class="cardbox-item">
+                        <img class="img-fluid" src="@Model.Item1.post.ImagePath" alt="Image">
+                    </div>
+                    <!--/ cardbox-item -->
+                    <div class="cardbox-base" style="font-size: 24px;">
+                        <ul class="float-right">
+                            <li><a><i class="fa fa-eye fa-2x"></i></a></li>
+                            <li><a><em class="mr-5">@Model.Item1.post.ViewCount</em></a></li>
+                        </ul>
+                        <ul>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li><a asp-controller="Post" asp-action="Like" asp-route-id="@Model.Item1.post.ID"><i
+                                        class="fa fa-thumbs-up fa-2x" style="@thumbsStyle"></i></a></li>
+                                <li><a><em class="mr-5">@Model.Item1.likeCount</em></a></li>
+                            }
+                            else
+                            {
+                                <li><a><i class="fa fa-thumbs-up fa-2x" style="@thumbsStyle"></i></a></li>
+                                <li><a><em class="mr-5">@Model.Item1.likeCount</em></a></li>
+                            }
+                        </ul>
+                    </div>
+                    <!--/ cardbox-base -->
+                </div>
+                <!--/ cardbox -->
+
+            </div>
+            <!--/ col-lg-6 -->
+            <div class="col"  style="width:50%;float:right;">
+                <div class="cardbox shadow-lg bg-white">
+                    <div class="cardbox-heading">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <div class="container-fluid" style="height: 400px; overflow-y: scroll;">
+                                @foreach (PostComment comment in Model.Item1.comments)
+                                {
+                                <div class="bg-white p-2">
+                                    <div class="d-flex flex-row user-info">
+                                        <div class="d-flex mr-1">
+                                            <a asp-controller="Profile" asp-action="Profile"
+                                               asp-route-id="@comment.user.ID">
+                                                <img class="img-fluid rounded-circle"
+                                                     src="@comment.user.ImageUrl" style="width:40px;height:40px;">
+                                            </a>
+                                        </div>
+                                        <div class="d-flex flex-column justify-content-start ml-2">
+                                            <span class="d-block font-weight-bold name">
+                                                <a asp-controller="Profile"
+                                                   asp-action="Profile"
+                                                   asp-route-id="@comment.user.ID">@comment.user.UserName</a>
+                                            </span><span class="date text-black-50">
+                                                <time class="timeago"
+                                                      datetime="@Html.DisplayFor(modelItem => comment.comment.CreatedDate)"></time>
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                    <div id="up+@comment.comment.ID">
+
+                                        @if (User.IsInRole("Admin") || comment.user.ID == ViewBag.user.ID)
+                                        {
+                                        <form asp-controller="Post" asp-action="RemoveComment" method="post">
+                                            <input type="text" name="commentID" value="@comment.comment.ID" class="form-control" hidden>
+                                            <input type="text" name="PostID" value="@comment.comment.PostID" class="form-control" hidden>
+                                            <div class="float-right">
+                                                <button type="button" class="btn btn-info btn-sm" onclick="document.getElementById('down+@comment.comment.ID').hidden = false; document.getElementById('up+@comment.comment.ID').hidden = true;">
+                                                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                                                </button>
+                                                <button class="btn btn-danger btn-sm">
+                                                    <i class="fa fa-trash" aria-hidden="true"></i>
+                                                </button>
+                                            </div>
+                                        </form>
+                                                }
+                                                <div class="mt-2">
+                                                    <p>@Html.Raw(comment.comment.Detail)</p>
+                                                </div>
+                                            
+                                        </div>
+                                    <div id="down+@comment.comment.ID" hidden>
+                                        <form asp-controller="Post" asp-action="UpdateComment" method="post">
+                                            <input type="text" name="commentID" value="@comment.comment.ID" class="form-control" hidden>
+                                            <input type="text" name="PostID" value="@comment.comment.PostID" class="form-control" hidden>
+                                            <div class="float-right">
+                                                <button class="btn btn-success btn-sm">
+                                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-warning btn-sm" onclick="document.getElementById('down+@comment.comment.ID').hidden = true; document.getElementById('up+@comment.comment.ID').hidden = false;">
+                                                    <i class="fa fa-times" aria-hidden="true"></i>
+                                                </button>
+                                            </div>
+                                            <div class="mt-2">
+                                                <input type="text" name="Detail" value="@comment.comment.Detail" class="form-control" style="resize:none;"></input>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                                }
+
+                            </div>
+
+                            <div class="container-fluid" style="height:100px;">
+                                <div class="bg-light p-2">
+                                    <form asp-controller="Post" asp-action="NewComment" method="post">
+                                        <input type="text" name="IDStr" value="@Model.Item1.post.ID" hidden />
+                                        <div class="d-flex flex-row align-items-start">
+                                            <div class="d-flex mr-1">
+                                                <img class="img-fluid rounded-circle" src="@ViewBag.user.ImageUrl"
+                                                style="width:40px;height:40px;">
+                                            </div>
+                                            <textarea type="text" name="commentStr"
+                                            class="form-control ml-1 shadow-none textarea"
+                                            placeholder="Write a comment..." style="resize:none;"></textarea>
+                                        </div>
+                                        <div class="mt-2 text-right"><button class="btn btn-primary btn-sm shadow-none">Post
+                                                comment</button></div>
+                                    </form>
+                                </div>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="container-fluid" style="height: 500px; overflow-y: scroll;">
+                                @foreach (PostComment comment in Model.Item1.comments)
+                                {
+                                    <div class="bg-white p-2">
+                                        <div class="d-flex flex-row user-info">
+                                            <div class="d-flex mr-1">
+                                                <a asp-controller="Profile" asp-action="Profile"
+                                                   asp-route-id="@comment.user.ID">
+                                                    <img class="img-fluid rounded-circle"
+                                                         src="@comment.user.ImageUrl" style="width:40px;height:40px;">
+                                                </a>
+                                            </div>
+                                            <div class="d-flex flex-column justify-content-start ml-2">
+                                                <span class="d-block font-weight-bold name">
+                                                    <a asp-controller="Profile"
+                                                       asp-action="Profile"
+                                                       asp-route-id="@comment.user.ID">@comment.user.UserName</a>
+                                                </span><span class="date text-black-50">
+                                                    <time class="timeago"
+                                                          datetime="@Html.DisplayFor(modelItem => comment.comment.CreatedDate)"></time>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="mt-2">
+                                            <p>@Html.Raw(comment.comment.Detail)</p>
+                                        </div>
+                                    </div>
+                                }
+
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

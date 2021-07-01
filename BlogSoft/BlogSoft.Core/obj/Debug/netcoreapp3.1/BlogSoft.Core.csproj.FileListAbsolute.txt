@@ -1,0 +1,36 @@
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.deps.json
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csprojAssemblyReference.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfoInputs.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfo.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csproj.CoreCompileInputs.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.deps.json
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.deps.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csprojAssemblyReference.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfoInputs.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfo.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.deps.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.Core\obj\Debug\netcoreapp3.1\BlogSoft.Core.pdb

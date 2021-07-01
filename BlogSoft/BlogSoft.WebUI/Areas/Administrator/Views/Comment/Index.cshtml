@@ -1,0 +1,84 @@
+﻿@model Comment
+@{
+    ViewData["Title"] = "Admin";
+    Layout = "~/Areas/Administrator/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <div class="title">
+        <h3>Comments</h3>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Comment Table</h4>
+        </div>
+        <div class="col-lg-12 col-md-12 ml-auto mr-auto">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Comment</th>
+                            <th>User</th>
+                            <th>Post</th>
+
+                            <th class="text-right">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Comment comment in ViewBag.comments)
+                        {
+                            <tr id="up+@comment.ID">
+                                <form asp-area="Administrator" asp-controller="Comment" asp-action="Remove" method="post" style="display:inline-block;" onSubmit="return confirm('Are you sure you wish to delete?');">
+                                    <input type="text" asp-for="@comment.ID" value="@comment.ID" class="form-control" hidden>
+                                    <td>@comment.Detail</td>
+                                    <td>@comment.User.UserName</td>
+                                    <td>@comment.Post.Name</td>
+                                    <td class="td-actions text-right">
+                                        <button type="button" rel="tooltip" class="btn btn-success btn-just-icon btn-sm" onclick="document.getElementById('down+@comment.ID').hidden = false; document.getElementById('up+@comment.ID').hidden = true;">
+                                            <i class="material-icons"><span class="fa fa-pencil-square-o fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button rel="tooltip" class="btn btn-danger btn-just-icon btn-sm">
+                                            <i class="material-icons"><span class="fa fa-trash fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                    </td>
+                                </form>
+                            </tr>
+                            <tr id="down+@comment.ID" hidden>
+                                <form asp-area="Administrator" asp-controller="Comment" asp-action="Update" method="post">
+                                    <input type="text" asp-for="@comment.ID" value="@comment.ID" class="form-control" hidden>
+                                    <td><textarea type="text" asp-for="@comment.Detail" value="@comment.Detail" class="form-control" style="width:350px;"></textarea></td>
+                                    <td><select type="text" asp-for="@comment.UserID" asp-items="@ViewBag.users" value="@comment.UserID" class="form-control" disabled></select></td>
+                                    <td><select type="text" asp-for="@comment.PostID" asp-items="@ViewBag.posts" value="@comment.PostID" class="form-control" disabled></select></td>
+                                    <td class="td-actions text-right">
+                                        <button rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
+                                            <i class="material-icons"><span class="fa fa-check fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button type="reset" rel="tooltip" class="btn btn-info btn-just-icon btn-sm" style="background-color:yellow;">
+                                            <i class="material-icons"><span class="fa fa-refresh fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button type="button" rel="tooltip" class="btn btn-danger btn-just-icon btn-sm" onclick="document.getElementById('down+@comment.ID').hidden = true; document.getElementById('up+@comment.ID').hidden = false;">
+                                            <i class="material-icons"><span class="fa fa-times fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                    </td>
+                                </form>
+                            </tr>
+                        }
+
+                        <tr id="add">
+                            <form asp-area="Administrator" asp-controller="Comment" asp-action="Insert" method="post">
+                                <td><textarea type="text" asp-for="@Model.Detail" class="form-control"></textarea></td>
+                                <td><select type="text" asp-for="@Model.UserID" asp-items="@ViewBag.users" class="form-control"></select></td>
+                                <td><select type="text" asp-for="@Model.PostID" asp-items="@ViewBag.posts" class="form-control"></select></td>
+                                <td class="td-actions text-right">
+                                    <button rel="tooltip" class="btn btn-info btn-just-icon btn-sm" style="background-color: lightblue;">
+                                        <i class="material-icons"><span class="fa fa-plus fa-lg" style="color:white;"></span></i>
+                                    </button>
+                                </td>
+                            </form>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>

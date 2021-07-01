@@ -1,0 +1,59 @@
+﻿@model PostViewModel
+@{
+    ViewData["Title"] = "Post";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+<form asp-controller="Post" asp-action="Update" method="post" enctype="multipart/form-data">
+    <input type="text" asp-for="@Model.post.ID" value="@Model.post.ID" class="form-control" hidden>
+    <div class="modal-body">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="container" style="margin:auto;text-align:center">
+                        <div class="row">
+                            <div class="form-group" style="width:100%;">
+                                <p><img id="avatarEdit" class="img-fluid center-block" src="@Model.post.ImagePath" style="max-width:150px;max-height:150px;" /><p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group" style="width:100%;">
+                                <p><input type="file" accept="image/*" name="files" id="file" onchange="loadFile(event)" style="display: none;"></p>
+                                <p><label for="file" style="cursor: pointer;">Upload Image</label></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="form-group" style="width:100%;">
+                            <label for="recipient-name" class="col-form-label">Title</label>
+                            <input type="text" asp-for="@Model.post.Name" value="@Model.post.Name" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group" style="width:100%;">
+                            <label for="recipient-name" class="col-form-label">Category</label>
+                            <select type="text" asp-for="@Model.post.CategoryID" value="@Model.post.CategoryID" asp-items="@ViewBag.categories" class="form-control"></select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group" style="width:100%;">
+                    <label for="recipient-name" class="col-form-label">Tags</label>
+                    <input type="text" asp-for="@Model.tagsString" value="@Model.tagsString" class="form-control">
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group" style="width:100%;">
+                    <label for="recipient-name" class="col-form-label">Description</label>
+                    @Html.TextAreaFor(Model => Model.post.Description, new { @class = "form-control", @name = "content", @id = "newPost", @value= "@Model.post.Description" })
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary">Save</button>
+    </div>
+</form>

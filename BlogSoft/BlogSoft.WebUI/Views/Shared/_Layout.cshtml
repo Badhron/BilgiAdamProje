@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fun9</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="~/css/index.css">
+    <link rel="stylesheet" type="text/css" href="~/css/post.css">
+    <link rel="stylesheet" type="text/css" href="~/css/new-post.css">
+    <link rel="stylesheet" type="text/css" href="~/css/profile.css">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #wrapper {
+            height: 100%;
+        }
+
+        #content {
+            height: 100%;
+            overflow: hidden;
+        }
+
+        section {
+            margin-top: 1px;
+            float: left;
+            overflow: auto;
+            height: 100%;
+        }
+
+        #left, #right {
+            width: 15%;
+        }
+
+        #center {
+            width: 70%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index" title="">Fun9</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                        data-target="#navb" aria-expanded="true">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div id="navb" class="navbar-collapse collapse hide">
+                    <ul class="navbar-nav">
+                        @if (User.Identity.IsAuthenticated)
+
+                        {
+
+            <li class="nav-item">
+                <a class="nav-link" href="#newpost" data-toggle="modal">
+                    <span class="fa fa-upload fa-lg"
+                          style="color:white;"></span>
+                </a>
+            </li>}
+
+                    </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Profile" asp-action="Index"
+                                   title=""><span class="fa fa-user fa-lg" style="color:white;"></span></a>
+                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" asp-controller="Account" asp-action="Logout" title="">
+                                                    <span class="fa fa-sign-out fa-lg" style="color:white;"></span>
+                                                </a>
+                                            </li> }
+                                                        else
+                                                        {
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="#register" data-toggle="modal">
+                                                    <span class="fa fa-user fa-lg" style="color:white;"></span>
+                                                    Sign Up
+                                                </a>
+                                            </li>
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#login" data-toggle="modal">
+                                                                    <span class="fa fa-sign-in fa-lg" style="color:white;"></span> Sign In
+                                                                </a>
+                                                            </li>}
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+
+
+        @await Component.InvokeAsync("Login")
+        @await Component.InvokeAsync("NewPostModal")
+
+
+
+
+
+
+        <div id="content">
+            <section id="left">
+            </section>
+            <section id="center"> @RenderBody() </section>
+            <section id="right">
+            </section>
+        </div>
+
+
+
+
+
+
+
+
+        <!--<script src="~/lib/jquery/dist/jquery-3.6.0.min.js"></script>-->
+
+
+        <script src="//code.jquery.com/jquery.min.js"></script>
+        <script src="~/lib/jquery/dist/jquery.timeago.js"></script>
+        <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="https://cdn.ckeditor.com/ckeditor5/28.0.0/classic/ckeditor.js"></script>
+        <script src="~/js/profile.js"></script>
+        <script src="~/js/index.js"></script>
+        <script src="~/js/post.js"></script>
+        <script src="~/js/new-post.js"></script>
+        <script>
+
+            ClassicEditor.create(document.querySelector('#newPost'), {
+                toolbar: {
+                    items: [
+                        'alignment', '|',
+                        'bold', 'italic', 'strikethrough', '|',
+                        'link', '|',
+                        'numberedList', 'bulletedList', 'todoList', '|',
+                        'fontfamily', 'fontsize', 'fontColor', '|',
+                        'undo', 'redo',
+                    ],
+                    shouldNotGroupWhenFull: true
+                },
+                image: {
+                    toolbar: []
+                },
+                language: 'en'
+            }).then(editor => {
+                window.editor = editor;
+
+                editor.model.document.on('change:data', function (evt) {
+                    const editorData = editor.getData();
+                });
+
+
+            }).catch(error => {
+                console.error(error);
+            });
+
+
+            function makeBold(t1) {
+                return "<b>" + t1 + "</b>";
+            };
+
+            function validateNewPostForm() {
+                let name = document.forms["newPost"]["name"].value;
+                if (name == "") {
+                    alert("Name must be filled out");
+                    return false;
+                }
+                let x = document.forms["newPost"]["files"].value;
+                if (x == null || x == "") {
+                    alert("Image must be filled uploaded");
+                    return false;
+                }
+            }
+
+            var loadFile = function (event) {
+                var image = document.getElementById('avatarEdit');
+                image.src = URL.createObjectURL(event.target.files[0]);
+            };
+
+
+        </script>
+
+
+
+</body>
+
+</html>
+
+
+
+

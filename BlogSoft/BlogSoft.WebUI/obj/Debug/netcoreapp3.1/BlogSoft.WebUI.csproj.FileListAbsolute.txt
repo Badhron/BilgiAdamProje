@@ -1,0 +1,676 @@
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csprojAssemblyReference.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfoInputs.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfo.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.Manifest.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.xml
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogSoft.WebUI.styles.css
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.exe
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.deps.json
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.json
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.dev.json
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CoreCompileInputs.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CopyComplete
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.genruntimeconfig.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.dll
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.input.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.output.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorCoreGenerate.cache
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\_ViewImports.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Home\Index.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Index.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Shared\PartialViews\_StatusPartial.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Index.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Index.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Insert.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Update.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Insert.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Update.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Insert.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Update.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Trending\Default.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Post.cshtml.g.cs
+D:\Kişisel Şeylerim\Çalıştığım Yerler\BilgeAdam\HaftaSonu .Net Grubu\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.exe
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.deps.json
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.json
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.dev.json
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfo.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.xml
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogSoft.WebUI.styles.css
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.input.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.output.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Index.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Insert.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Update.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Index.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Insert.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Update.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Shared\PartialViews\_StatusPartial.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Index.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Insert.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Update.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Trending\Default.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CopyComplete
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+C:\Users\User\Desktop\Blog_Projesi\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.genruntimeconfig.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.exe
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.deps.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.dev.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csprojAssemblyReference.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfoInputs.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfo.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.xml
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogSoft.WebUI.styles.css
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.input.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.output.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorCoreGenerate.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Trending\Default.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CopyComplete
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.genruntimeconfig.cache
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\post.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Login\Default.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Profile.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NewPostModal\Default.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tag\Default.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\EditUserModal\Default.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\_ViewImports.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Admin\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Comment\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Tag\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\PostTag\Index.cshtml.g.cs
+C:\Users\abmec\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Post\PostEditPage.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.exe
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.deps.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.runtimeconfig.dev.json
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Model.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Service.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\bin\Debug\netcoreapp3.1\BlogSoft.Core.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.AssemblyInfo.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogSoft.WebUI.StaticWebAssets.xml
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogSoft.WebUI.styles.css
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.input.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.TagHelpers.output.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorCoreGenerate.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Category\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Comment\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\PostTag\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Post\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\Tag\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\User\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\post.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Post\PostEditPage.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Profile.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\EditUserModal\Default.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Login\Default.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NewPostModal\Default.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tag\Default.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Trending\Default.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.Views.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.csproj.CopyComplete
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.dll
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.pdb
+C:\Users\User\Desktop\BlogSoft\BlogSoft.WebUI\obj\Debug\netcoreapp3.1\BlogSoft.WebUI.genruntimeconfig.cache

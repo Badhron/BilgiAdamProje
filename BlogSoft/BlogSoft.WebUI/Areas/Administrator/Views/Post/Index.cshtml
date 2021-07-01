@@ -1,0 +1,93 @@
+﻿@model Post
+@{
+    ViewData["Title"] = "Admin";
+    Layout = "~/Areas/Administrator/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container">
+    <div class="title">
+        <h3>Posts</h3>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Post Table</h4>
+        </div>
+        <div class="col-lg-12 col-md-12 ml-auto mr-auto">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>Image</th>
+                            <th>Description</th>
+                            <th>ViewCount</th>
+                            <th class="text-right">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Post post in ViewBag.posts)
+                        {
+                            <tr id="up+@post.ID">
+                                <form asp-area="Administrator" asp-controller="Post" asp-action="Remove" method="post" style="display:inline-block;" onSubmit="return confirm('Are you sure you wish to delete?');">
+                                    <input type="text" asp-for="@post.ID" value="@post.ID" class="form-control" hidden>
+                                    <td>@post.Name</td>
+                                    <td>@post.Category.Name</td>
+                                    <td>@post.ImagePath</td>
+                                    <td>@post.Description</td>
+                                    <td>@post.ViewCount</td>
+                                    <td class="td-actions text-right">
+                                        <button type="button" rel="tooltip" class="btn btn-success btn-just-icon btn-sm" onclick="document.getElementById('down+@post.ID').hidden = false; document.getElementById('up+@post.ID').hidden = true;">
+                                            <i class="material-icons"><span class="fa fa-pencil-square-o fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button rel="tooltip" class="btn btn-danger btn-just-icon btn-sm">
+                                            <i class="material-icons"><span class="fa fa-trash fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                    </td>
+                                </form>
+                            </tr>
+                            <tr id="down+@post.ID" hidden>
+                                <form asp-area="Administrator" asp-controller="Post" asp-action="Update" method="post">
+                                    <input type="text" asp-for="@post.ID" value="@post.ID" class="form-control" hidden>
+                                    <td><input type="text" asp-for="@post.Name" value="@post.Name" class="form-control"></td>
+                                    <td><select type="text" asp-for="@post.CategoryID" asp-items="@ViewBag.Categories" value="@post.CategoryID" class="form-control"></select></td>
+                                    <td><input type="text" asp-for="@post.ImagePath" value="@post.ImagePath" class="form-control"></td>
+                                    <td><textarea type="text" asp-for="@post.Description" value="@post.Description" class="form-control" style="width:350px;"></textarea></td>
+                                    <td><input type="number" asp-for="@post.ViewCount" value="@post.ViewCount" class="form-control"></td>
+                                    <td class="td-actions text-right">
+                                        <button rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
+                                            <i class="material-icons"><span class="fa fa-check fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button type="reset" rel="tooltip" class="btn btn-info btn-just-icon btn-sm" style="background-color:yellow;">
+                                            <i class="material-icons"><span class="fa fa-refresh fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button type="button" rel="tooltip" class="btn btn-danger btn-just-icon btn-sm" onclick="document.getElementById('down+@post.ID').hidden = true; document.getElementById('up+@post.ID').hidden = false;">
+                                            <i class="material-icons"><span class="fa fa-times fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                    </td>
+                                </form>
+                            </tr>
+                        }
+
+                        <tr id="add">
+                            <form asp-area="Administrator" asp-controller="Post" asp-action="Insert" method="post">
+                                <td><input type="text" asp-for="@Model.Name" class="form-control"></td>
+                                <td><select type="text" asp-for="@Model.CategoryID" asp-items="@ViewBag.Categories" class="form-control"></select></td>
+                                <td><input type="text" asp-for="@Model.ImagePath" class="form-control"></td>
+                                <td><textarea type="text" asp-for="@Model.Description" class="form-control" style="width:350px;"></textarea></td>
+                                <td><input type="number" asp-for="@Model.ViewCount" class="form-control"></td>
+                                <td class="td-actions text-right">
+                                    <button rel="tooltip" class="btn btn-info btn-just-icon btn-sm" style="background-color: lightblue;">
+                                        <i class="material-icons"><span class="fa fa-plus fa-lg" style="color:white;"></span></i>
+                                    </button>
+                                </td>
+                            </form>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

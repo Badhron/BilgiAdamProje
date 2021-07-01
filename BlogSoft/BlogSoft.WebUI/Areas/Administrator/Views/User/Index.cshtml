@@ -1,0 +1,92 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Admin";
+    Layout = "~/Areas/Administrator/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <div class="title">
+        <h3>Users</h3>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4>User Table</h4>
+        </div>
+        <div class="col-lg-12 col-md-12 ml-auto mr-auto">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>UserName</th>
+                            <th>Email</th>
+                            <th>Password</th>
+                            <th>Image</th>
+                            <th>Role</th>
+                            <th class="text-right">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (User user in ViewBag.users)
+                        {
+                        <tr id="up+@user.ID">
+                            <form asp-area="Administrator" asp-controller="User" asp-action="Remove" method="post" style="display:inline-block;" onSubmit="return confirm('Are you sure you wish to delete?');">
+                                <input type="text" asp-for="@user.ID" value="@user.ID" class="form-control" hidden>
+                                <td>@user.UserName</td>
+                                <td>@user.Email</td>
+                                <td>@user.Password</td>
+                                <td>@user.ImageUrl</td>
+                                <td>@user.Role</td>
+                                <td class="td-actions text-right">
+                                    <button type="button" rel="tooltip" class="btn btn-success btn-just-icon btn-sm" onclick="document.getElementById('down+@user.ID').hidden = false; document.getElementById('up+@user.ID').hidden = true;">
+                                        <i class="material-icons"><span class="fa fa-pencil-square-o fa-lg" style="color:white;"></span></i>
+                                    </button>
+                                    <button rel="tooltip" class="btn btn-danger btn-just-icon btn-sm">
+                                        <i class="material-icons"><span class="fa fa-trash fa-lg" style="color:white;"></span></i>
+                                    </button>
+                                </td>
+                            </form>
+                        </tr>
+                            <tr id="down+@user.ID" hidden>
+                                <form asp-area="Administrator" asp-controller="User" asp-action="Update" method="post">
+                                    <input type="text" asp-for="@user.ID" value="@user.ID" class="form-control" hidden>
+                                    <td><input type="text" asp-for="@user.UserName" value="@user.UserName" class="form-control"></td>
+                                    <td><input type="text" asp-for="@user.Email" value="@user.Email" class="form-control"></td>
+                                    <td><input type="text" asp-for="@user.Password" value="@user.Password" class="form-control"></td>
+                                    <td><input type="text" asp-for="@user.ImageUrl" value="@user.ImageUrl" class="form-control"></td>
+                                    <td><select type="text" asp-for="@user.Role" value="@user.Role" class="form-control"><option value="Admin">Admin</option><option value="User">User</option></select></td>
+                                    <td class="td-actions text-right">
+                                        <button rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
+                                            <i class="material-icons"><span class="fa fa-check fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button type="reset" rel="tooltip" class="btn btn-info btn-just-icon btn-sm" style="background-color:yellow;">
+                                            <i class="material-icons"><span class="fa fa-refresh fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                        <button type="button" rel="tooltip" class="btn btn-danger btn-just-icon btn-sm" onclick="document.getElementById('down+@user.ID').hidden = true; document.getElementById('up+@user.ID').hidden = false;">
+                                            <i class="material-icons"><span class="fa fa-times fa-lg" style="color:white;"></span></i>
+                                        </button>
+                                    </td>
+                                </form>
+                            </tr>
+                        }
+
+                        <tr id="add">
+                            <form asp-area="Administrator" asp-controller="User" asp-action="Insert" method="post">
+                                <td><input type="text" asp-for="@Model.UserName" class="form-control"></td>
+                                <td><input type="text" asp-for="@Model.Email" class="form-control"></td>
+                                <td><input type="text" asp-for="@Model.Password" class="form-control"></td>
+                                <td><input type="text" asp-for="@Model.ImageUrl" value="\images\avatar.png" class="form-control"></td>
+                                <td><select type="text" asp-for="@Model.Role" value="User" class="form-control"><option value="Admin">Admin</option><option value="User">User</option></select></td>
+                                <td class="td-actions text-right">
+                                    <button rel="tooltip" class="btn btn-info btn-just-icon btn-sm" style="background-color: lightblue;">
+                                        <i class="material-icons"><span class="fa fa-plus fa-lg" style="color:white;"></span></i>
+                                    </button>
+                                </td>
+                            </form>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

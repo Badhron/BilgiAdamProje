@@ -1,0 +1,21 @@
+﻿@{ ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml"; }
+
+<div class="container">
+    <div class="row">
+        <hr>
+        <section id="pinBoot">
+            @foreach (Post item in ViewBag.posts)
+            {
+                <article class="white-panel">
+                    <a asp-controller="Home" asp-action="Post" asp-route-id="@item.ID">
+                        <img src="@item.ImagePath" alt="">
+                        <h4><a asp-controller="Home" asp-action="Post" asp-route-id="@item.ID">@item.Name</a></h4>
+                        <p>@Html.Raw(item.Description)</p>
+                    </a>
+                </article>
+            }
+        </section>
+    </div>
+</div>
+

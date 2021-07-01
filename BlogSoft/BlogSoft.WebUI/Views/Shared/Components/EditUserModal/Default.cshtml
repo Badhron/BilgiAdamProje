@@ -1,0 +1,70 @@
+﻿@model User
+
+<div class="modal fade bd-example-modal-lg" id="editUser" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">New message</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form asp-controller="Profile" asp-action="EditProfile" method="post" enctype="multipart/form-data">
+                <input type="text" asp-for="@Model.ID" value="@Model.ID" class="form-control" hidden>
+                <div class="modal-body">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="container" style="margin:auto;text-align:center">
+                                    <div class="row">
+                                        <div class="form-group" style="width:100%;">
+                                            <p><img id="avatarEdit" class="img-fluid rounded-circle center-block" src="@Model.ImageUrl" style="max-width:150px;max-height:150px;" /><p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group" style="width:100%;">
+                                            <p><input type="file" accept="image/*" name="files" id="file" onchange="loadFile(event)" style="display: none;"></p>
+                                            <p><label for="file" style="cursor: pointer;">Upload Image</label></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="form-group" style="width:100%;">
+                                        <label for="recipient-name" class="col-form-label">Username</label>
+                                        <input type="text" asp-for="@Model.UserName" value="@Model.UserName" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group" style="width:100%;">
+                                        <label for="recipient-name" class="col-form-label">Email</label>
+                                        <input type="text" asp-for="@Model.Email" value="@Model.Email" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group" style="width:100%;">
+                                    <label for="recipient-name" class="col-form-label">Current Password</label>
+                                    <input type="password" name="currentPasword" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group" style="width:100%;">
+                                    <label for="recipient-name" class="col-form-label">New Password</label>
+                                    <input type="password" name="newPasword" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button class="btn btn-primary">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

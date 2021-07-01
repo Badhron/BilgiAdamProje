@@ -1,0 +1,10 @@
+﻿@model List<Tag>
+
+
+<div class="container" style="margin-top:20px;">
+    <p style="font-weight:bold;">
+        @foreach (Tag tag in Model)
+        {
+        <a asp-controller="Home" asp-action="PostsByTag" asp-route-id="@tag.ID" style="text-decoration: none;" class="tag">@tag.Name.Trim()  &nbsp;</a>}
+    </p>
+</div>

@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fun9</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="~/css/admin.css">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #wrapper {
+            height: 100%;
+        }
+
+        #content {
+            height: 100%;
+            overflow: hidden;
+        }
+
+        section {
+            margin-top: 1px;
+            float: left;
+            overflow: auto;
+            height: 100%;
+        }
+
+        #left, #right {
+            width: 5%;
+        }
+
+        #center {
+            width: 90%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" asp-area="Administrator" asp-controller="Admin" asp-action="Index">Fun9</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Administrator" asp-controller="User" asp-action="Index">Users</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Administrator" asp-controller="Category" asp-action="Index">Category</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Administrator" asp-controller="Post" asp-action="Index">Post</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Administrator" asp-controller="Comment" asp-action="Index">Comment</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Administrator" asp-controller="Tag" asp-action="Index">Tag</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Administrator" asp-controller="PostTag" asp-action="Index">PostTag</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+
+
+
+        <div id="content">
+            <section id="left">
+            </section>
+            <section id="center"> @RenderBody() </section>
+            <section id="right">
+            </section>
+        </div>
+
+
+
+        <script src="//code.jquery.com/jquery.min.js"></script>
+        <script src="~/lib/jquery/dist/jquery.timeago.js"></script>
+        <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="https://cdn.ckeditor.com/ckeditor5/28.0.0/classic/ckeditor.js"></script>
+        <script src="~/js/admin.js"></script>
+
+    </div>
+</body>
+
+</html>
+
+
+
+
